@@ -1,0 +1,11 @@
+month,eua_eur_t,kind,period_note,source_url
+2026-01,86.88,monthly_average,"DEHSt Table 2 monthly average auction price (* average, not necessarily volume-weighted). Q1 report.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q1.pdf?__blob=publicationFile
+2026-02,72.47,monthly_average,"DEHSt Table 2 monthly average auction price (* average). Q1 report.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q1.pdf?__blob=publicationFile
+2026-03,68.49,monthly_average,"DEHSt Table 2 monthly average auction price (* average). Q1 report.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q1.pdf?__blob=publicationFile
+2026-04,73.98,monthly_average,"DEHSt Table 2 monthly average auction price (* average). Q2 report.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q2.pdf?__blob=publicationFile
+2026-05,75.98,monthly_average,"DEHSt Table 2 monthly average auction price (* average). Q2 report.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q2.pdf?__blob=publicationFile
+2026-06,77.99,monthly_average,"DEHSt Table 2 monthly average auction price (* average). Q2 report.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q2.pdf?__blob=publicationFile
+2026-07,79.66,monthly_average,"DEHSt Table 1 monthly average auction price (* average). Q3 report.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q3.pdf?__blob=publicationFile
+2026-08,82.31,monthly_vwap,"DEHSt Table 1 August 2026 is marked ** volume-weighted average. Q3 report.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q3.pdf?__blob=publicationFile
+2026-09,84.95,monthly_average,"DEHSt Table 1 monthly average auction price (* average). Q3 report.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q3.pdf?__blob=publicationFile
+2026-10,82.52,quarterly_vwap_carried,"No official October 2026 monthly DEHSt report found on 2026-11-12. Q3 2026 VWAP carried as a labelled proxy.",https://www.dehst.de/SharedDocs/downloads/EN/auctioning/2026/2026_report_Q3.pdf?__blob=publicationFile

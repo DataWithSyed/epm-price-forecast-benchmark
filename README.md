@@ -123,6 +123,6 @@ See [`docs/assumptions.md`](docs/assumptions.md). The main ones:
 
 ## Series
 
-Part of the [European Power Market Lab](https://github.com/DataWithSyed/eu-power-market-lab). Previous step: [`epm-capacity-adequacy`](https://github.com/DataWithSyed/epm-capacity-adequacy). Next step: `epm-bess-value-from-scenarios`.
+Part of the [European Power Market Lab](https://github.com/DataWithSyed/eu-power-market-lab). Previous step: [`epm-capacity-adequacy`](https://github.com/DataWithSyed/epm-capacity-adequacy). Next step: [`epm-bess-value-from-scenarios`](https://github.com/DataWithSyed/epm-bess-value-from-scenarios).
 
 MIT licence (code). Data keep their own licences.
